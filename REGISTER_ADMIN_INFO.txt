@@ -1,0 +1,3 @@
+// Note: To register a new admin, you must be authenticated as a super admin.
+// The /api/admin/register endpoint is protected by authentication and role middleware in adminRoutes.js.
+// Only a logged-in super admin can POST to /api/admin/register.
